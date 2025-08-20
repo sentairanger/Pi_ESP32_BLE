@@ -9,4 +9,8 @@ This project allows you to communicate between a Raspberry Pi and ESP32 using BL
 
 Click on this [link](https://medium.com/@ed2point0/how-i-got-my-raspberry-pi-and-esp32-to-talk-to-each-other-3cb2cd95ccc2) for the write up on this project.
 
+* Initial setup
 ![Picture](https://github.com/sentairanger/Pi_ESP32_BLE/blob/main/esp32-pi_bb.jpg)
+
+* Setup with Potentiometer
+![Picture](https://github.com/sentairanger/Pi_ESP32_BLE/blob/main/esp32-pi-pot_bb.jpg)
