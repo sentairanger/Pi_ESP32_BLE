@@ -14,3 +14,6 @@ Click on this [link](https://medium.com/@ed2point0/how-i-got-my-raspberry-pi-and
 
 * Setup with Potentiometer
 ![Picture](https://github.com/sentairanger/Pi_ESP32_BLE/blob/main/esp32-pi-pot_bb.jpg)
+
+* Setup with Potentiometer and LED
+![LED](https://github.com/sentairanger/Pi_ESP32_BLE/blob/main/esp32-pi-pot2_bb.jpg)
